@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Safety-platform/static/css/main.fd4bff2a.css",
-    "main.js": "/Safety-platform/static/js/main.bc9a0ba7.js",
+    "main.js": "/Safety-platform/static/js/main.8e485cf1.js",
     "static/media/hse-hero.png": "/Safety-platform/static/media/hse-hero.5bfc9518a025fda7e9d9.png",
     "static/media/logo.png": "/Safety-platform/static/media/logo.5bd0777c7f14b4844fe8.png",
     "static/media/bootstrap-icons.woff?": "/Safety-platform/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
     "static/media/bootstrap-icons.woff2?": "/Safety-platform/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "index.html": "/Safety-platform/index.html",
     "main.fd4bff2a.css.map": "/Safety-platform/static/css/main.fd4bff2a.css.map",
-    "main.bc9a0ba7.js.map": "/Safety-platform/static/js/main.bc9a0ba7.js.map"
+    "main.8e485cf1.js.map": "/Safety-platform/static/js/main.8e485cf1.js.map"
   },
   "entrypoints": [
     "static/css/main.fd4bff2a.css",
-    "static/js/main.bc9a0ba7.js"
+    "static/js/main.8e485cf1.js"
   ]
 }
